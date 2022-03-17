@@ -5,14 +5,14 @@ Iniciado dia **17.03.20022**
 
 ### UX/UI
 - Decidir as cores utilizadas no site 
-- Até onde os jogos vão
-- Formato de apresentação
+- Até onde os jogos vão (para melhor visualização)
+- Formato de apresentação (de cada jogo)
 - Letras a serem utilizadas
 
 
 ### Na parte inicial 
 - A logo do site
-O usuário quer saber em qual site ele está navegando 
+    - O usuário quer saber em qual site ele está navegando 
 
 - Promoções/Ofertas (uma aba)
 Ao abrir o usuário pode identificar:
@@ -23,10 +23,10 @@ Faxa de preço desejado
 ```
 
 - Tipo de console
-Caso o site possua mais tipos para serem de console (PC, PSP, Nintendo Switch ...)
+    - Caso o site possua mais tipos para serem de console (PC, PSP, Nintendo Switch ...)
 
 - Criação de perfil do usuário
-o usuário deve conseguir criar um perfil para realização de compras
+    - O usuário deve conseguir criar um perfil para realização de compras
 ```
 Fazer um pop-up contendo:
 Região da conta
@@ -39,7 +39,7 @@ Termos do usuário
 ```
 
 - Login do usuário
-o usuario já possui um perfil e quer acessa-lo
+    - O usuario já possui um perfil e quer acessa-lo
 ```
 Email ou nome de usuário
 Senha 
@@ -47,7 +47,7 @@ Esqueci minha senha
 ```
 
 - Categorias
-O usuário procura por especificos tipos de jogos:
+    - O usuário procura por especificos tipos de jogos:
 ```
 Ideias de como ser:
     Os tipos de jogos e categorias separadas já
@@ -57,7 +57,7 @@ Ideias de como ser:
 ### Navegando pelo site
 
 - Jogos
-O usuario quer visualizar os jogos 
+    - O usuario quer visualizar os jogos 
 ```
 Apresentação dos jogos
 Preço 
@@ -69,7 +69,7 @@ Se quiser, alerta de oferta
 ```
 
 - Promoções
-O usuário vizualiza as promoções logo que abre o site para se interessar e se manter conectado no site
+    - O usuário vizualiza as promoções logo que abre o site para se interessar e se manter conectado no site
 ```
 A porcentagem de desconto 
 O preço antigo 
