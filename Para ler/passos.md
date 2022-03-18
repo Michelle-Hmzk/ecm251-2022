@@ -18,7 +18,7 @@ git add .
 git commit -m "mensagem"
 git push
 ```
-Ou commitar pelo VSCODE
+Ou commitar após comitar pelo VSCODE
 ```
 git push
 ```
