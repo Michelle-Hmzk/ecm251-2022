@@ -8,12 +8,12 @@ git config --global user.email email@email.com
 
 ## Comandos para utilizar
 
-- Comando para cizualisar as modificações dos arquivos.
+- Comando para vizualisar as modificações dos arquivos.
 ```bash
 git status 
 ```
 
-- Comando para inicializar o repositório
+- Comando para inicializar um novo repositório
 ```bash
 git init
 ```
@@ -32,3 +32,5 @@ git commit -m "algum texto"
 ```bash
 git status
 ```
+
+
