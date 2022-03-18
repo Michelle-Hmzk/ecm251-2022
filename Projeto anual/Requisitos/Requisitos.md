@@ -103,7 +103,6 @@ Caso o jogo estiver em promoção:
 - Formato de apresentação (de cada jogo)
 - Letras a serem utilizadas
 ```
-
 ### Opção de busca
 Busca por escrita:
 ```
