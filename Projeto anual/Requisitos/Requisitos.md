@@ -12,7 +12,7 @@ Iniciado dia **17.03.20022**
 
 ### Na parte inicial 
 - A logo do site
-    - O usuário quer saber em qual site ele está navegando 
+O usuário quer saber em qual site ele está navegando 
 
 - Promoções/Ofertas (uma aba)
     Ao abrir o usuário pode identificar:
