@@ -15,12 +15,10 @@ Iniciado dia **17.03.20022**
     - O usuário quer saber em qual site ele está navegando 
 
 - Promoções/Ofertas (uma aba)
-Ao abrir o usuário pode identificar:
-```
-Jogos de graça
-Todas as promoções
-Faxa de preço desejado
-```
+    Ao abrir o usuário pode identificar:
+    Jogos de graça
+    Todas as promoções
+    Faxa de preço desejado
 
 - Tipo de console
     - Caso o site possua mais tipos para serem de console (PC, PSP, Nintendo Switch ...)
