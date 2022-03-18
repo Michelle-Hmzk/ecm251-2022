@@ -1,7 +1,7 @@
-# Projeto anual 
+# *Projeto anual*
 Iniciado dia **17.03.20022**
 
-## Requisitos para a criação do site de plataforma de jogos:
+## **Requisitos para a criação do site de plataforma de jogos:**
 ```
 - Usuário:
     Conta
@@ -18,14 +18,19 @@ Iniciado dia **17.03.20022**
         Informações
         Troféus
 ```
-#
-## Usuário
+# *Essencial ter no site*
+## **Usuário**
 Para entrar no site:
 ```
 - Email ou username 
 - Senha
 - Esqueci minha senha
 ```
+Para sair do site:
+```
+- Deslogar 
+```
+
 Para criação de perfil:
 ```
 - Idade
@@ -38,29 +43,30 @@ Para criação de perfil:
 - Termos do usuário
 - Opcional
     - Cartão para compras 
+    - Lembrar do cartão
 ```
+
+Para exclusão do perfil:
+```
+- Email
+- Senha
+```
+
 Para a aparição do perfil:
 ```
 - Foto 
 - User name
-- *Adicionar amigos
-- *Comunidade
-- *Conquistas
-- *Jogos recentes
-- *Conquistas
-- *Comentários
-- *Status
-- *Biblioteca de jogos
+- Biblioteca de jogos (visto por apenas ele)
 ```
+
 Feedback:
 ```
 - O usuário deve possuir o jogo 
 - Pode realizar comentários
-- *Estrelas
 ```
 
 #
-## Conta/segurança:
+## **Conta/segurança:**
 Para o usuário efetuar compras na plataforma:
 ```
 - Deve indicar sua idade
@@ -75,8 +81,12 @@ Caso deseje efetuar o reembolso:
 ```
 - Estar dentro do prazo de 7 dias (168 horas)
 ```
+Para segurança do usuário:
+```
+- Autentiação de dois fatores 
+```
 #
-## Jogos
+## **Jogos**
 ```
 - Capa (arte)
 - Vídeo explicativo (breve)
@@ -86,24 +96,57 @@ Caso deseje efetuar o reembolso:
 - Indicação caso for um jogo beta
 - História 
 - Quantas conquistas teve (premiações)
-- *Data da criação
-- *Alerta de oferta
+- Data da criação
 ```
 Caso o jogo estiver em promoção:
 ```
 - O quanto era seu preço antigo e o atual
 - O quanto de desconto 
 ```
+
+# *Parte opcional (acrescentando):*
+## Usuário
+Opções do que pode-se fazer:
+```
+- Adicionar amigos por nome ou código de pessoa
+- Entrar em comunidades
+- Comentários em jogos ou em seu perfil (referente à algum jogo)
+    - Pode conter vídeos curtos ou fotos
+- Classificar o jogo 
+```
+
+Opções do que se mostrar no perfil de cada pessoa:
+```
+- Conquistas
+- Jogos recentes
+- Status
+- Amigos
+- Amigos em comum com outro perfil
+```
+
+Para exclusão do perfil:
+```
+- Motivo da exclusão do perfil do site
+```
+
 #
-## Complementação:
-### UX/UI
+## Jogos
+```
+- Oferta do jogo do dia
+- Quantos usuários baixaram o jogo
+- Alerta de oferta do jogo
+```
+
+# *Interessante pensar sobre*
+## UX/UI
 ```
 - Decidir as cores utilizadas no site 
 - Até onde os jogos vão (para melhor visualização)
 - Formato de apresentação (de cada jogo)
 - Letras a serem utilizadas
 ```
-### Opção de busca
+#
+## Opção de busca
 Busca por escrita:
 ```
 - Jogos específicos
@@ -116,13 +159,33 @@ Busca por categoria
 - Tipos de jogos
 - Jogos em oferta
 - Por preço (barrinha)
+- Jogos de graça
 ```
 
-### Noticias de jogos
+#
+## Noticias de jogos
 ```
 - Premios recentes
 - Curiosidades
 - Aniversário de empresas ou dos jogos
 - Novidades de jogos
 - Streams online
+- Cupons de desconto
+```
+
+## Tipos de console
+Caso o site tiver tipos de jogos, por exemplo:
+- Nintendo switch
+- PC
+- Playstation ...
+
+## Suporte
+```
+- Via chat ou email
+    - compras
+    - reembolso 
+    - clonagem de conta
+    - esquecimento de senha
+    - perca de código de jogo 
+    - perca da conta por inatividade (?)
 ```
