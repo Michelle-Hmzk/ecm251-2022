@@ -2,7 +2,27 @@
 Repositório criado para a disciplina ECM251-2022
 
 ## Conteúdo de pastas:
-### Pasta para ler:
+
+### AULA-01:
+- read.me - arquivo feito na primeira aula 
+
+### AULA-02:
+
+### AULA-03:
+- pasta que contém o conteúdo da aula 03
+
+### AULA-04:
+- pasta contém o conteúdo da aula teorica 04
+
+### AULA-05:
+- contém o conteúdo da aula teorica 05 
+- contém o conteúdo da aula prática "Projeto anual"
+
+### AULA-06:
+- contém o conteúdo da aula teorica 06 
+- contém o conteúdo da aula prática "MauaBank"
+
+### Para ler:
 - Read.me - arquivo foi feito em aula 
 - Para ler - arquivo feito para lembrar de algumas coisas
 
