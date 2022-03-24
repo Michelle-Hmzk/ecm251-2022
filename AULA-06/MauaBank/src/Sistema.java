@@ -10,9 +10,7 @@ public class Sistema {
         System.out.println(conta);
 
         Titulo steam = new Titulo( 200 , LocalDate.of(2022,03,30) , 5);
-        conta.depositar(300)
-
-           
+        conta.depositar(300);    
         
     }
 
