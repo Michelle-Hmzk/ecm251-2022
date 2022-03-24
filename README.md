@@ -3,7 +3,6 @@ Repositório criado para a disciplina ECM251-2022
 
 ## Conteúdo de pastas:
 
-#
 ### AULA-01:
 - read.me - arquivo feito na primeira aula 
 
