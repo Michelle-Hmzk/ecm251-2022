@@ -9,25 +9,22 @@ Repositório criado para a disciplina ECM251-2022
 ### AULA-02:
 
 ### AULA-03:
-- pasta que contém o conteúdo da aula 03
+- Contém o conteúdo da aula 03
 
 ### AULA-04:
-- pasta contém o conteúdo da aula teorica 04
+- Contém o conteúdo da aula teorica 04
+- Contém o conteúdo da aula prática "Caneta"
 
 ### AULA-05:
-- contém o conteúdo da aula teorica 05 
-- contém o conteúdo da aula prática "Projeto anual"
+- Contém o conteúdo da aula teorica 05 
+- Contém o conteúdo da aula prática "Projeto anual"
 
 ### AULA-06:
-- contém o conteúdo da aula teorica 06 
-- contém o conteúdo da aula prática "MauaBank"
+- Contém o conteúdo da aula teorica 06 
+- Contém o conteúdo da aula prática "MauaBank"
 
 ### Para ler:
-- Read.me - arquivo foi feito em aula 
-- Para ler - arquivo feito para lembrar de algumas coisas
+- Para ler - arquivo feito para lembrar de algumas coisas 
 
 ### Projeto anual requisitos:
-Pasta que contém o projeto anual
-
-### Caneta:
-Pasta com conteúdo dado em aula
+- Pasta que contém o projeto anual
