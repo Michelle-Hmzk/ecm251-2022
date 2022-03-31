@@ -20,3 +20,15 @@ Criar um protótipo de pagamento por QRcode, x) Mercado pago
 - saldo
 
 ## Transação
+- sem tributos
+- infos para seguir obrigatóriamente:
+    - Toda transação deve ser composta pelo id da conta;
+    - A String gerada deve conter o nome do usuário que vai receber o valor;
+    - A String gerada deve conter o valor da transação;
+
+# 
+## O que ter também no código:
+- forma de atualizar as infos das classes
+- criar 3 contas para testar
+    - valores iniciais de saldo: 1000, 250, 3000
+    
