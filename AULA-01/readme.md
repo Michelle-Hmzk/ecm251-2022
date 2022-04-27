@@ -50,5 +50,5 @@ git pull
 
 - Comando para clonar um repositório:
 ```
-git clone "link do repositório"
+git clone "link do repositório" (inserir com ctrl+shift+insert)
 ```
