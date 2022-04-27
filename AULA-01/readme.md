@@ -1,7 +1,8 @@
 # ECM251 - Utilizando Git
 
-Em primeiro lugar, configurar quem é o usuário (***nome***) e qual seu ***e-mail***.
+Em primeiro lugar, configurar quem é o usuário (***nome***) e qual seu ***e-mail*** no pc.
 ```bash
+Abrir "Git Bash Here", digitar:
 git config --global user.name "nomeusuario"
 git config --global user.email email@email.com
 ```
