@@ -37,3 +37,18 @@ git add .
 ```bash
 git commit -m "algum texto"
 ```
+
+- Comando para salvar as mudanças do commit:
+```
+git push
+```
+
+- Comando para baixar/atualizar o git:
+``
+git pull
+```` 
+
+- Comando para clonar um repositório:
+```
+git clone "link do repositório"
+```
