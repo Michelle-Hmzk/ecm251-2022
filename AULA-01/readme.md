@@ -52,3 +52,8 @@ git pull
 ```
 git clone "link do repositório" (inserir com ctrl+shift+insert)
 ```
+
+- Comando para abrir o vscode:
+```
+code .
+```
