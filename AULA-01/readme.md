@@ -44,9 +44,9 @@ git push
 ```
 
 - Comando para baixar/atualizar o git:
-``
+```
 git pull
-```` 
+```
 
 - Comando para clonar um repositório:
 ```
