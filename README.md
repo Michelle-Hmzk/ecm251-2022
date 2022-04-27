@@ -4,29 +4,48 @@ Repositório criado para a disciplina ECM251-2022
 ## Conteúdo de pastas:
 
 ### AULA-01:
-- read.me - arquivo feito na primeira aula 
+- Teórica:
+- Lab: "read.me" sobre comandos
 
 #
 ### AULA-02:
+- Teórica:
+- Lab:
 
 #
 ### AULA-03:
-- Contém o conteúdo da aula 03
+- Teórica: Pdf sobre Java
+- Lab:
 
 #
 ### AULA-04:
-- Contém o conteúdo da aula teorica 04
-- Contém o conteúdo da aula prática "Caneta"
+- Teórica: Pdf sobre OO (orientação a objeto)
+- Lab: "Caneta"
 
 #
 ### AULA-05:
-- Contém o conteúdo da aula teorica 05 
-- Contém o conteúdo da aula prática "Projeto anual"
+- Teórica:
+- Lab: "Projeto Prático POO"
 
 #
 ### AULA-06:
-- Contém o conteúdo da aula teorica 06 
-- Contém o conteúdo da aula prática "MauaBank"
+- Teórica: Pdf sobre diagrama de classes
+- Lab: "MauaBank"
+
+#
+### AULA-07:
+- Teórica:
+- Lab:
+
+#
+### AULA-08:
+- Teórica:
+- Lab:
+
+#
+### AULA-09:
+- Teórica: Correção do Simulado (um método)
+- Lab:
 
 #
 ### Para ler:
