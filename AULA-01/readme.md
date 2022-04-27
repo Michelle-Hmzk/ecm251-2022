@@ -8,30 +8,32 @@ git config --global user.email email@email.com
 ```
 
 ## Comandos para utilizar
+- Comando para configuração de user:
+```
+git config --global user.name "nomeusuario"
+```
 
-- Comando para vizualisar as modificações dos arquivos.
+- Comando para configuração de email:
+```
+git config --global user.email email@email.com
+```
+
+- Comando para vizualisar o status do git (se os arquivos batem, se falta algo em algum lugar...):
 ```bash
 git status 
 ```
 
-- Comando para inicializar um novo repositório
+- Comando para inicializar um novo repositório:
 ```bash
 git init
 ```
 
-- Comando para iniciar o track
+- Comando para iniciar o track (para adicionar qualquer coisa, seja um arquivo todo, uma alteração. Depois tem outro comando):
 ```bash
 git add .
 ```
 
-- Comando para comitar uma alteração
+- Comando para comitar:
 ```bash
 git commit -m "algum texto"
 ```
-
-- Comando para saber o status  
-```bash
-git status
-```
-
-
