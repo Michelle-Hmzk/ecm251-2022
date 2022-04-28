@@ -14,33 +14,33 @@ Repositório criado para a disciplina ECM251-2022
 
 #
 ### AULA-03:
-- Teórica: Pdf sobre Java
+- Teórica: pdf - Introdução ao Java
 - Lab:
 
 #
 ### AULA-04:
-- Teórica: Pdf sobre OO (orientação a objeto)
+- Teórica: pdf - Introdução a POO com Java
 - Lab: "Caneta"
 
 #
 ### AULA-05:
-- Teórica:
-- Lab: "Projeto Prático POO"
+- Teórica: pdf - Diagrama de classes
+- Lab: "Projeto Prático POO" 
 
 #
 ### AULA-06:
-- Teórica: Pdf sobre diagrama de classes
+- Teórica: pdf - Encapsulamento e Construtores
 - Lab: "MauaBank"
 
 #
 ### AULA-07:
-- Teórica:
+- Teórica: pdf - Atributos de Classe
 - Lab:
 
 #
 ### AULA-08:
-- Teórica:
-- Lab:
+- Teórica: pdf - Herança
+- Lab: não teve por feriado ou prova 
 
 #
 ### AULA-09:
