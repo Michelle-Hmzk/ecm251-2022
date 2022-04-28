@@ -1,6 +1,7 @@
 ## Atividade1
-O usuario deve trocar de veículo, por este ser compartilhado. Quando compartilhado o veiculo, deve-se chamar "testar".
-"testar" vai mostrar o ID do veiculo e 5 numeros indicando o veiculo testar() 
+- O usuario deve trocar de veículo, por este ser compartilhado. Quando compartilhado o veiculo, deve-se chamar "testar".
+- "testar" vai mostrar o ID do veiculo (5 numeros indicando o veiculo)
+- testar() 
 
 
 ### Usuario:

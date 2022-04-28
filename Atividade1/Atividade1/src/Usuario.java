@@ -2,22 +2,19 @@
 //RA: 20.00539-3
 
 public class Usuario {
-    private String nome;
-    private Carro carro;
-    private Moto moto;
-    private Bicicleta bicicleta;
-    private Patinete patinete;
+    private String name;
 
-    public Usuario(String nome) {
-        this.nome = nome;
-        this.automovel = automovel;
+    public Usuario (String name) {
+        this.name = name;
     }
-    public String getNome() {
-        return nome;
+
+    public String automovel(){
+        return String.format("%s", name);
     }
-    public String getAutomovel() {
-        return automovel;
+
+    public String getName() {
+        return name;
     }
-    
+
 }
 
