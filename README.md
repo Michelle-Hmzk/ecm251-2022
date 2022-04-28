@@ -35,7 +35,7 @@ Repositório criado para a disciplina ECM251-2022
 #
 ### AULA-07:
 - Teórica: pdf - Atributos de Classe
-- Lab:
+- Lab: Simulado
 
 #
 ### AULA-08:
@@ -45,7 +45,7 @@ Repositório criado para a disciplina ECM251-2022
 #
 ### AULA-09:
 - Teórica: Correção do Simulado (um método)
-- Lab:
+- Lab: atividade
 
 #
 ### Para ler:
