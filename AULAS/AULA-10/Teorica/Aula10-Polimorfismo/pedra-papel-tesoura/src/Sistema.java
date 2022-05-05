@@ -9,7 +9,10 @@ public class Sistema {
         //Avaliação das jogadas
         Enumjogadas resultado = avaliaJogadas(jogada1, jogada2);
         //Exibição do resultado
-        System.out.println("Ganhador:" + resultado);
+        System.out.println("Ganhador: " + resultado);
+        System.out.print(jogada1.getTipo());
+        System.out.println(" VERSUS ");
+        System.out.println(jogada2.getTipo());
     }
 
     private static Jogada sortearJogada() {
