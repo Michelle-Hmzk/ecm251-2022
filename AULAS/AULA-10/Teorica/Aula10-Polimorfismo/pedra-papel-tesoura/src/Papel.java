@@ -1,12 +1,12 @@
 public class Papel extends Jogada{
 
     public Papel() {
-        super("Pedra");
+        super(Enumjogadas.PEDRA, Enumjogadas.SPOCK);
     }
 
     @Override
-    public String getTipo() {
-        return "Papel";
+    public Enumjogadas getTipo() {
+        return Enumjogadas.PAPEL;
     }
     
 }
