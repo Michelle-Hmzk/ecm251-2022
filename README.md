@@ -48,6 +48,16 @@ Repositório criado para a disciplina ECM251-2022
 - Lab: atividade
 
 #
+### AULA-10:
+- Teórica: Polimorfismo
+- Lab:
+
+#
+### AULA-10:
+- Teórica: Abstrato 
+- Lab:
+
+#
 ### Para ler:
 - Para ler - arquivo feito para lembrar de algumas coisas 
 
