@@ -53,7 +53,7 @@ Repositório criado para a disciplina ECM251-2022
 - Lab:
 
 #
-### AULA-10:
+### AULA-11:
 - Teórica: Abstrato 
 - Lab:
 
