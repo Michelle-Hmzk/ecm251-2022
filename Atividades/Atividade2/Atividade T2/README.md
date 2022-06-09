@@ -1,13 +1,11 @@
 # ATIVIDADE T2
 
-#
 ### “MAsK_S0c13ty
 - membros de celular = “Mobile Members”
 - membros de estações pesadasa = “Heavy Lifters”
 - membros de notebook = “Script Guys”
 - membros gestores = “Big Brothers”
 
-# 
 ## O que fazer?
 Os Big Brothers devem cadastrar novos membros: 
 - “Mobile Members”: gerenciam postagens em redes sociais. Durante as **atividades regulares**, todos eles devem assinar as postagens com **“Happy Coding!”**. Durante as **atividades “extras”** da “MAsK_S0c13ty”, eles devem assinar os posts como **“Happy_C0d1ng. Maskers”**.
@@ -19,7 +17,6 @@ Os Big Brothers devem cadastrar novos membros:
 - **TODOS OS MEMBROS** podem implementar a interface **PostarMensagem**
 - devem ser capazes de **perguntar para o sistema** se ele está em **horário normal** de trabalho ou se estão em horário de **atividades “extras”**.
 
-#
 ## Infos extras:
 - os membros dos grupos variam
 - cadastro:
@@ -28,7 +25,6 @@ Os Big Brothers devem cadastrar novos membros:
     - função 
 - sistema muda de hora de trabalho quando solicitado
 
-#
 ## Implementação
 - tela de boas vindas
 - cadastro de usuário
