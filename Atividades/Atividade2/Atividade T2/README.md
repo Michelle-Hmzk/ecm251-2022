@@ -1,6 +1,6 @@
 # ATIVIDADE T2
 
-### “MAsK_S0c13ty
+### MAsK_S0c13ty
 - membros de celular = “Mobile Members”
 - membros de estações pesadasa = “Heavy Lifters”
 - membros de notebook = “Script Guys”
