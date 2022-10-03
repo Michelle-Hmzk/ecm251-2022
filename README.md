@@ -11,7 +11,7 @@ git config --global user.email email@email.com
 ```
 - Abrir o git hub e clonar os arquivos, gosto de (no mesmo Git Bash Here):
 ```
-git clone (ctrl+ shift + insert)
+git clone (shift + insert)
 ```
 
 ## Para comitar
