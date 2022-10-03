@@ -26,20 +26,3 @@ Ou commitar após comitar pelo VSCODE
 git push
 ```
 
-#
-### AULA-10:
-- Teórica: Polimorfismo
-- Lab:
-
-#
-### AULA-11:
-- Teórica: Abstrato 
-- Lab:
-
-#
-### Para ler:
-- Para ler - arquivo feito para lembrar de algumas coisas 
-
-#
-### Projeto anual requisitos:
-- Pasta que contém o projeto anual
