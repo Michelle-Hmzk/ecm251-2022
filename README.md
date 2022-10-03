@@ -1,51 +1,30 @@
 # Ecm251-2022
 Repositório criado para a disciplina ECM251-2022
 
-## Conteúdo de pastas:
+### Passo a passo do que fazer:
 
-### AULA-01:
-- Teórica:
-- Lab: "read.me" sobre comandos
+## Após iniciar o PC:
+Abrir o Git Bash Here
+```
+git config --global user.name "nomeusuario"
+git config --global user.email email@email.com
+```
+- Abrir o git hub e clonar os arquivos, gosto de (no mesmo Git Bash Here):
+```
+git clone (ctrl+ shift + insert)
+```
 
-#
-### AULA-02:
-- Teórica:
-- Lab:
-
-#
-### AULA-03:
-- Teórica: pdf - Introdução ao Java
-- Lab:
-
-#
-### AULA-04:
-- Teórica: pdf - Introdução a POO com Java
-- Lab: "Caneta"
-
-#
-### AULA-05:
-- Teórica: pdf - Diagrama de classes
-- Lab: "Projeto Prático POO" 
-
-#
-### AULA-06:
-- Teórica: pdf - Encapsulamento e Construtores
-- Lab: "MauaBank"
-
-#
-### AULA-07:
-- Teórica: pdf - Atributos de Classe
-- Lab: Simulado
-
-#
-### AULA-08:
-- Teórica: pdf - Herança
-- Lab: não teve por feriado ou prova 
-
-#
-### AULA-09:
-- Teórica: Correção do Simulado (um método)
-- Lab: atividade
+## Para comitar
+Utilizando o Git Bash (pro git quando ja tem pasta):
+```
+git add .
+git commit -m "mensagem"
+git push
+```
+Ou commitar após comitar pelo VSCODE
+```
+git push
+```
 
 #
 ### AULA-10:
