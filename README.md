@@ -3,59 +3,62 @@
  
 ## Informações úteis:
 
-### Para Logar:
-Abrir o Git Bash Here
+### Para Logar: 
+```Abrir o "Git Bash Here" na tela inicial do PC e digitar:```
 ```
 git config --global user.name "nomeusuario"
 git config --global user.email email@email.com
 ```
-Abrir o git hub e clonar os arquivos, gosto de (no mesmo Git Bash Here):
+
+#
+### Para clonar arquivos:
+```Abrir o git hub, copiar a URL colar no "Git Bash Here" (em qualquer lugar, tanto em uma pasta, quanto na tela inicial):```
 ```
 git clone (shift + insert)
 ```
+
 #
 ### Conferindo dados:
+```Para conferir o nome ou user inserido:```
 ```
 git config --global user.name 
 ```
-Aparece o nome insetido
+
+```Para conferir e-mail inserido:```
 ```
 git config --global user.email 
 ```
-Aparece o email inserido
 
 #
-
-### Limpar credenciais:
-Abrir o Git Bash Here
+### Limpar credenciais:<br>
+```Abrir o Git Bash Here```
 ```
 git config --global --unset user.name 
 git config --global --unset user.email 
 ```
-#
 
-### Para trazer alterações no código:
+#
+### Para trazer alterações feitas nó código que estão no git hub:
 ```
 git pull
 ```
 
 #
-
 ### Para conferir o status do git:
 ```
 git status
 ```
 
 #
-
 ### Para comitar:
-Utilizando o Git Bash (pro git quando ja tem pasta):
+```Utilizando o Git Bash:```
 ```
 git add .
 git commit -m "mensagem"
 git push
 ```
-Ou commitar após comitar pelo VSCODE
+
+```Ou commitar após comitar pelo VSCODE:```
 ```
 git push
 ```
