@@ -3,8 +3,7 @@
  
 ## Informações úteis:
 
-#
-## Para Logar:
+### Para Logar:
 Abrir o Git Bash Here
 ```
 git config --global user.name "nomeusuario"
@@ -15,7 +14,7 @@ Abrir o git hub e clonar os arquivos, gosto de (no mesmo Git Bash Here):
 git clone (shift + insert)
 ```
 #
-## Conferindo dados:
+### Conferindo dados:
 ```
 git config --global user.name 
 ```
@@ -27,7 +26,7 @@ Aparece o email inserido
 
 #
 
-## Limpar credenciais:
+### Limpar credenciais:
 Abrir o Git Bash Here
 ```
 git config --global --unset user.name 
@@ -35,21 +34,21 @@ git config --global --unset user.email
 ```
 #
 
-## Para trazer alterações no código:
+### Para trazer alterações no código:
 ```
 git pull
 ```
 
 #
 
-## Para conferir o status do git:
+### Para conferir o status do git:
 ```
 git status
 ```
 
 #
 
-## Para comitar:
+### Para comitar:
 Utilizando o Git Bash (pro git quando ja tem pasta):
 ```
 git add .
