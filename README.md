@@ -30,14 +30,6 @@ git config --global user.email
 ```
 
 #
-### Limpar credenciais:<br>
-```Abrir o Git Bash Here```
-```
-git config --global --unset user.name 
-git config --global --unset user.email 
-```
-
-#
 ### Para trazer alterações feitas nó código que estão no git hub:
 ```
 git pull
@@ -61,4 +53,12 @@ git push
 ```Ou commitar após comitar pelo VSCODE:```
 ```
 git push
+```
+
+#
+### Limpar credenciais:<br>
+```Abrir o Git Bash Here```
+```
+git config --global --unset user.name 
+git config --global --unset user.email 
 ```
