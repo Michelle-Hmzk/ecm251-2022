@@ -36,6 +36,24 @@ git pull
 ```
 
 #
+### Para criar uma branch nova:
+```
+git checkout -b (nome)
+```
+
+```
+git clone (shift+insert)
+cd pasta 
+git checkout -b (nome)
+git merge (nome de uma branch) "atualiza a branch"
+mkdir (nome)
+cd (nome)/
+python -m venv .
+cd Scripts 
+./activate 
+```
+
+#
 ### Para conferir o status do git:
 ```
 git status
@@ -56,7 +74,7 @@ git push
 ```
 
 #
-### Limpar credenciais:<br>
+### Limpar credenciais:
 ```Abrir o Git Bash Here```
 ```
 git config --global --unset user.name 
